@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintArgs": [
+    "--disable=C0114, C0116"]
+}
